@@ -20,6 +20,10 @@ BS-AI 1A
 <img width="2055" height="1652" alt="image" src="https://github.com/user-attachments/assets/a7777857-97bd-497f-9bd2-8b15b6518e62" />
 <img width="1835" height="765" alt="image" src="https://github.com/user-attachments/assets/63addb46-3dcc-401e-8140-d709b61bb61c" />
 
+## Flowchart and Pseudocode
+<img width="1225" height="1572" alt="image" src="https://github.com/user-attachments/assets/a5aa4616-8d87-459c-9868-2dbd84d6ed8b" />
+<img width="1230" height="1030" alt="image" src="https://github.com/user-attachments/assets/6e4c165e-40c4-4286-95c0-7c344f42fe7a" />
+
 
 
 
