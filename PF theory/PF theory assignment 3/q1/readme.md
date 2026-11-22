@@ -18,7 +18,8 @@ BS-AI 1A
 <img width="2425" height="1625" alt="image" src="https://github.com/user-attachments/assets/bac29d3f-c61b-47f7-b0bc-625dc67520b7" />
 <img width="2300" height="1700" alt="image" src="https://github.com/user-attachments/assets/a0776cfb-6291-4202-8a6f-52fe53c908f5" />
 <img width="2055" height="1652" alt="image" src="https://github.com/user-attachments/assets/a7777857-97bd-497f-9bd2-8b15b6518e62" />
-![Uploading image.png…]()
+<img width="1835" height="765" alt="image" src="https://github.com/user-attachments/assets/63addb46-3dcc-401e-8140-d709b61bb61c" />
+
 
 
 
