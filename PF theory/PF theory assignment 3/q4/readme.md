@@ -12,3 +12,5 @@ BS-AI 1A
 <img width="1775" height="1737" alt="image" src="https://github.com/user-attachments/assets/b88bf487-04c8-4384-ba26-f34ae5a39f6b" />
 
 ## Working and flowchart
+<img width="1272" height="1402" alt="image" src="https://github.com/user-attachments/assets/1e0bf983-6f55-44a3-8b39-94a80b5085d8" />
+
