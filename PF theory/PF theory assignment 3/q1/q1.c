@@ -76,6 +76,7 @@ int main(int argc, char *argv[]){
                 else if ((curr_grid[i][j] == 1) && (count>=2 && count<=3)) next_grid[i][j] = 1; // lives
                 else if ((curr_grid[i][j] == 1) && (count>3)) next_grid[i][j] = 0; // dies cos more than 3 neighbours
                 else if ((curr_grid[i][j] == 0) && (count==3)) next_grid[i][j] =1; // reproduction
+                else next_grid[i][j] == 0;
             }
         }
 
