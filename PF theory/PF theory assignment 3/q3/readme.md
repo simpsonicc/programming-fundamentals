@@ -10,7 +10,7 @@ BS-AI 1A
 ## Output 
 <img width="1887" height="1367" alt="image" src="https://github.com/user-attachments/assets/b445baa5-6301-4fb8-aac2-bbd7275b6f70" />
 
-## assumption
+## Assumption
 I have calculated the distance from the origin for every shape with point (x1, y1) since the question doesn't specify it 
 
 ## Working and flowchart
